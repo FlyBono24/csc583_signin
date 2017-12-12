@@ -23,6 +23,8 @@ For this rudimentary application, we simply need a login page with no scroll bar
 
 ## Plan of action
 - [ ] Create main page
-- [ ] blah
+- [ ] Create admin page
 - [ ] Create database
 - [ ] Hook up database
+- [ ] Redirect back to main after entry
+- [ ] Populate database results on admin page
