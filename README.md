@@ -2,7 +2,7 @@
 
 Sign-In Kiosk project
 
-## Nonfunctional requirements (design and tool selection analysis)
+## Nonfunctional requirements 
 The two programming paths that I considered were using our MEVN application as a boilerplate (Mongo, Express, Vue, and Node), or writing a new mobile app from scratch using HTML5 with Mongo or another database.
 
 - Skills - MEVN -- Since we have used this more recently, and my last HTML5 app was written years ago
@@ -17,7 +17,7 @@ The two programming paths that I considered were using our MEVN application as a
 
 ## Installation instructions
 
-## Architecture discussion (no more than one paragraph)
+## Architecture discussion 
 
 For this rudimentary application, we simply need a login page with no scroll bar (to keep it on a single page for tablets) and a database backend.  The redirect function should go back to the login screen once a user has "signed in".  Perhaps a pop-up box should display to verify that the user was logged.  The admin feature will allow a privileged user to access the database entries for auditing.
 
